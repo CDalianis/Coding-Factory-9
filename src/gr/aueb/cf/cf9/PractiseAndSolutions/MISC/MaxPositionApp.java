@@ -1,4 +1,4 @@
-package gr.aueb.cf.cf9.practise;
+package gr.aueb.cf.cf9.PractiseAndSolutions.MISC;
 
 public class MaxPositionApp {
     public static void main(String[] args) {

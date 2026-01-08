@@ -1,4 +1,4 @@
-package gr.aueb.cf.cf9.practise;
+package gr.aueb.cf.cf9.PractiseAndSolutions.MISC;
 
 import java.util.Scanner;
 
