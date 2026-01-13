@@ -8,7 +8,10 @@ import java.util.List;
 import java.util.Optional;
 
 public class AccountDAOImpl implements IAccountDAO.IAccountDAO {
+
     private final List<Account> accounts = new ArrayList<>();
+    // einai o apothikeftikos mas xwros aftosgia ti sigekrimeni periptwsi, tha m
+    // mporouse na nai kai mia vasi dedomenwn
 
     @Override
     public Account saveOrUpdate(Account account) {
